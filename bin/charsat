@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'charsat'
+CharsAt::CLI.new.print(ARGV)
